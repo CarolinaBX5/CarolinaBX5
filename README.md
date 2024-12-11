@@ -24,12 +24,12 @@ videojuegos en mi tiempo libre.
 
 ---
 
-### 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 ![CarolinaBX5's GitHub
 Stats](https://github-readme-stats.vercel.app/api?username=CarolinaBX5&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📚 Sobre mí
-Cuando no estoy programando, disfruto perdiéndome en mundos de fantasía a través de libros o videojuegos. Creo
-firmemente en disfrutar el viaje tanto como el destino. ¡Gracias por visitar mi perfil! 😊
+Cuando no estoy programando, disfruto perdiéndome en mundos de fantasía a través de libros o videojuegos.
+¡Gracias por visitar mi perfil! 😊

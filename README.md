@@ -18,7 +18,7 @@ videojuegos en mi tiempo libre.
 
 ---
 
-## ¡Conéctate conmigo! 💌
+## 💌¡Conéctate conmigo! 
 - **Correo:** [carolinabetancor55@gmail.com](mailto:carolinabetancor55@gmail.com)
 - **Twitter:** *Próximamente*
 
